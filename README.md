@@ -1,5 +1,14 @@
 # Link
 https://propacity.netlify.app/
+   
+# How to Install and Run the Project
+
+1. Firstly we have to install latest stable npm  version
+2. Secondly we have to run global recact command in our system
+3. Thirdly we have to clone this project from Github
+4. Then we have to run commmand npm install
+5. then we have to run project by giving command npm start
+   
 # About the Project
 1. This project is made in React, React Bootstrap.
 2. This project has 3 parts
@@ -13,12 +22,5 @@ https://propacity.netlify.app/
 6. Routing of Contact Us page is in localhost (/contactus).
 7. Routing of thank you page is in localhost (/thank).
 8. After submitting each form we can get into a thank you page.
-   
-# How to Install and Run the Project
 
-1. Firstly we have to install latest stable npm  version
-2. Secondly we have to run global recact command in our system
-3. Thirdly we have to clone this project from Github
-4. Then we have to run commmand npm install
-5. then we have to run project by giving command npm start
 
