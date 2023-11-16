@@ -23,4 +23,17 @@ https://propacity.netlify.app/
 7. Routing of thank you page is in localhost (/thank).
 8. After submitting each form we can get into a thank you page.
 
+# Inconvinience
+1. sorry for the inconvinience, I am doing a full time job, so did not get much time for the mobile responsive.
+
+# Personal Links
+1. You can checkout my other projects here I have pushed recently.
+2. Github Link: https: //github.com/smaranikapa
+3. Linkedin Link: https: https://www.linkedin.com/in/smaranika-panda-069a7a23b/
+4. My peronal portfolio: https://smaranika-pandaa-portfolio.netlify.app/
+5. other projects: https://zingy-cactus-b76536.netlify.app/
+6. live project: https://pickup.ninja/
+7. live project: https://prinstaindia.com/
+
+
 
