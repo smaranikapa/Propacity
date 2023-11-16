@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&display=swap');
+
+  .bg {
+    background-image: url("../images/main.jpg");
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .three{
+    position: absolute;
+    top: 40%;
+  }
+  .mumbai{
+    font-size: 11px;
+    padding: 5px 35px 5px 35px;
+  }
+  .mumbai-button{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+  }
+  .project{
+    font-size: 90px; 
+    margin: 0;
+  }
+  .aranya{
+    font-size: 70px;
+    margin: 0;
+  }
+  .font{
+    font-family: 'Gabriela', serif;
+  }
+  .primal{
+    color:
+    #00E5A1;
+    font-size: 25px;
+    font-weight: 500;
+  }
+  

@@ -1,0 +1,13 @@
+.bg-second{
+    background-color: #1A2440;
+}
+.overlap {
+    position: relative;
+  }
+  
+  .first,
+  .second {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
